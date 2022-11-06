@@ -8,7 +8,7 @@ This repository contains the submitted patch files of the various tasks assigned
 
 ## My Certificate of Completion 
 
-![Certificate of Completion]()
+![Certificate of Completion](https://github.com/rahulkarda/JPMorgan-Chase-Virtual-Internship/blob/master/Certificate_of_Completion.png?raw=true)
 
 ## For any queries/doubts:
 
